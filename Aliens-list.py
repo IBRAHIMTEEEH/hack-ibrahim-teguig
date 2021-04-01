@@ -13,12 +13,9 @@ print('''     ___       __       __   _______ .__   __.      _______.
 |  |     |  | `---|  |----`                                 
 |  |     |  |     |  |                                      
 |  `----.|  |     |  |                                      
-|_______||__|SS   |__|                                      
-                                                            
-
-Facebook Admin: https://www.facebook.com/profile.php?id=1007601942
-                                            ''') 
-aaa=input('\033[93m\033[4mﺺﻧ ﺔﻐﻴﺻ ﻲﺴﻨﺗ ﻻ ﺔﻤﺋﺎﻗ ﻢﺳﺍ ﻞﺧﺩﺍ =============== ===========>>>>')
+| _______ || __ | SS | __ |                                      
+                                         أنا _____ <<<IBRAHIM TEGUIG
+aaa = المدخلات ('\ 033 [93 م \ 033 [4 م م =)
 print('-'*29)
 file=open(aaa,'w') 
 aa=set([]) 
@@ -32,13 +29,13 @@ while True :
         file.close()
         qq=open(aaa, 'r' )
         ll=len(qq.readlines())
-        os.system('printf "\033[3;31m"')
+        os.system('printf "\033[3;31,,m"')
         print('''\033[1m ﺡﺎﺠﻨﺑ ﺩﺭﻮﺳﺎﺑ ﺀﺎﺸﻧﺍ ﻢﺗ
 HACKER BY MOHAMED LKAMILI PRO ''')
         print('-'*60) 
         break ;
     aa.add(b)
-    for i in aa:
+    for i in aa
         if len(i) >= 6 and i not in oio :
             oio.add(i)
             file.write(i)
