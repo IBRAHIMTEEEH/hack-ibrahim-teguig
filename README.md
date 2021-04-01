@@ -5,10 +5,7 @@
 انت تريد تخمين سريع على حساب واختراقه با دقة
 
 هدا سكربت لافضل حقا انه بالغة لعربية 
-
-لن تفقط ضحية تأكيد امان عند لاختراق
-
-تبته
+لن تفقط ضحية تأكيد امان عندالاختراق
 
   pkg install python 
   pkg install python2
@@ -19,7 +16,4 @@ git clone https://github.com/hackermohamedPro/Aliens-fb
 cd Aliens-fb
 python2 Aliens-fb.py
 
- كلمة شكر
-
-منظمة لإلينز 
-محمد برو
+ibrahiim
